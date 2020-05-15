@@ -1,6 +1,6 @@
 # Project Reactor
 
-This project contains test cases on project reactor codes. 
+This project contains test cases on project reactor codes (Mono, Flux and Operators). 
 
 Useful Links:
 
